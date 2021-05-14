@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e7d9feec2f4ec42c0a57d0e1fd79446f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gryphon Rock
+  fontNames:
+  - Gryphon Rock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40e851e8ac67d45bbba73f85165e09c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
